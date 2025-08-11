@@ -48,14 +48,6 @@ Currently enhancing my skills in **Machine Learning**, **Deep Learning**, and **
 -  [**Grammar Score Engine**](https://github.com/Kumarharsh1t/Grammer-Score-Engine-for-Voice-Sample-By-using-Machine-Learning) – Voice grammar evaluation using ML & NLP.  
 
 ---
-##  GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumarharsh1&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.herokuapp.com/?user=Kumarharsh1&theme=tokyonight)  
-
-
-
----
 
  **“Learning never exhausts the mind.” – Leonardo da Vinci**  
 
