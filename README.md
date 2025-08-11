@@ -25,7 +25,7 @@ Currently enhancing my skills in **Machine Learning**, **Deep Learning**, and **
 ##  Featured Projects  
 
 - [**Diabetes Prediction App**](https://github.com/Kumarharsh1t/Diabetes-Prediction-)  
-   [Live App](https://yut4dj6nxyxaasimwwvpzm.streamlit.app/) | 🔗 [Alternate Deployment](https://6890c6b0ddf903296517c592--diabetescheckapp.netlify.app/)  
+   [Live App](https://yut4dj6nxyxaasimwwvpzm.streamlit.app/) |  [Alternate Deployment](https://6890c6b0ddf903296517c592--diabetescheckapp.netlify.app/)  
 
 -  [**Stock Market Predictor**](https://github.com/Kumarharsh1t/Stock-Market-Predictor)  
    [Live App](https://stock-market-predictor-4dp8c29i7nr5ebrebp28yt.streamlit.app/) |  [Dataset on Kaggle](https://www.kaggle.com/datasets/kumarharsh001/stock-market-data-for-candlestick-analysis)  
@@ -33,11 +33,12 @@ Currently enhancing my skills in **Machine Learning**, **Deep Learning**, and **
 -  [**Grammar Score Engine**](https://github.com/Kumarharsh1t/Grammer-Score-Engine-for-Voice-Sample-By-using-Machine-Learning) – Voice grammar evaluation using ML & NLP.  
 
 ---
-
 ##  GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumarharsh1t&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Kumarharsh1t&theme=tokyonight)  
+![Kumarharsh1t's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumarharsh1t&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kumarharsh1t&theme=tokyonight)  
+
 
 ---
 
