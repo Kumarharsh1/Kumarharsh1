@@ -5,6 +5,16 @@
 I’m passionate about building intelligent systems, working with data, and solving real-world problems through AI & ML.  
 Currently enhancing my skills in **Machine Learning**, **Deep Learning**, and **Data Engineering**.  
 
+##  Featured Projects
+
+- [Diabetes Prediction App](https://6890c6b0ddf903296517c592--diabetescheckapp.netlify.app/)
+- [Stock Market Predictor](https://stock-market-predictor-4dp8c29i7nr5ebrebp28yt.streamlit.app/)
+- [Grammar Score Engine](https://github.com/Kumarharsh1t/Grammer-Score-Engine-for-Voice-Sample-By-using-Machine-Learning)
+- [Tableau Population Dashboard](https://prod-apsoutheast-b.online.tableau.com/t/kh949118-4446c37376/authoring/Population/Sheet1/Capital%20Ranking%20by%20Population#1)
+- [Stock Market Data for Candlestick Analysis (Kaggle Dataset)](https://www.kaggle.com/datasets/kumarharsh001/stock-market-data-for-candlestick-analysis)
+- [Diabetes Prediction (Streamlit Deployment)](https://yut4dj6nxyxaasimwwvpzm.streamlit.app/)
+
+
 ---
 
 ##  Tech Stack  
