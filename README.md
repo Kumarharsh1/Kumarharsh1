@@ -6,13 +6,16 @@ I’m passionate about building intelligent systems, working with data, and solv
 Currently enhancing my skills in **Machine Learning**, **Deep Learning**, and **Data Engineering**.  
 
 ##  Featured Projects
+ 
 
-- [Diabetes Prediction App](https://6890c6b0ddf903296517c592--diabetescheckapp.netlify.app/)
-- [Stock Market Predictor](https://stock-market-predictor-4dp8c29i7nr5ebrebp28yt.streamlit.app/)
-- [Grammar Score Engine](https://github.com/Kumarharsh1t/Grammer-Score-Engine-for-Voice-Sample-By-using-Machine-Learning)
-- [Tableau Population Dashboard](https://prod-apsoutheast-b.online.tableau.com/t/kh949118-4446c37376/authoring/Population/Sheet1/Capital%20Ranking%20by%20Population#1)
-- [Stock Market Data for Candlestick Analysis (Kaggle Dataset)](https://www.kaggle.com/datasets/kumarharsh001/stock-market-data-for-candlestick-analysis)
-- [Diabetes Prediction (Streamlit Deployment)](https://yut4dj6nxyxaasimwwvpzm.streamlit.app/)
+- [**Diabetes Prediction App**](https://github.com/Kumarharsh1t/Diabetes-Prediction-)  
+   [Live App](https://yut4dj6nxyxaasimwwvpzm.streamlit.app/) |  [Alternate Deployment](https://6890c6b0ddf903296517c592--diabetescheckapp.netlify.app/)  
+
+-  [**Stock Market Predictor**](https://github.com/Kumarharsh1t/Stock-Market-Predictor)  
+   [Live App](https://stock-market-predictor-4dp8c29i7nr5ebrebp28yt.streamlit.app/) |  [Dataset on Kaggle](https://www.kaggle.com/datasets/kumarharsh001/stock-market-data-for-candlestick-analysis)  
+
+-  [**Grammar Score Engine**](https://github.com/Kumarharsh1t/Grammer-Score-Engine-for-Voice-Sample-By-using-Machine-Learning) – Voice grammar evaluation using ML & NLP.
+-  [Tableau Population Dashboard](https://prod-apsoutheast-b.online.tableau.com/t/kh949118-4446c37376/authoring/Population/Sheet1/Capital%20Ranking%20by%20Population#1)
 
 
 ---
@@ -44,18 +47,6 @@ Currently enhancing my skills in **Machine Learning**, **Deep Learning**, and **
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://prod-apsoutheast-b.online.tableau.com/t/kh949118-4446c37376/authoring/Population/Sheet1/Capital%20Ranking%20by%20Population#1)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kh949118@gmail.com)
 
-
----
-
-##  Featured Projects  
-
-- [**Diabetes Prediction App**](https://github.com/Kumarharsh1t/Diabetes-Prediction-)  
-   [Live App](https://yut4dj6nxyxaasimwwvpzm.streamlit.app/) |  [Alternate Deployment](https://6890c6b0ddf903296517c592--diabetescheckapp.netlify.app/)  
-
--  [**Stock Market Predictor**](https://github.com/Kumarharsh1t/Stock-Market-Predictor)  
-   [Live App](https://stock-market-predictor-4dp8c29i7nr5ebrebp28yt.streamlit.app/) |  [Dataset on Kaggle](https://www.kaggle.com/datasets/kumarharsh001/stock-market-data-for-candlestick-analysis)  
-
--  [**Grammar Score Engine**](https://github.com/Kumarharsh1t/Grammer-Score-Engine-for-Voice-Sample-By-using-Machine-Learning) – Voice grammar evaluation using ML & NLP.  
 
 ---
 
