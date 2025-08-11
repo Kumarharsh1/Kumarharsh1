@@ -19,6 +19,8 @@ Currently enhancing my skills in **Machine Learning**, **Deep Learning**, and **
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kumar-harsh-6ab195241)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/kumarharsh001/stock-market-data-for-candlestick-analysis)  
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://prod-apsoutheast-b.online.tableau.com/t/kh949118-4446c37376/authoring/Population/Sheet1/Capital%20Ranking%20by%20Population#1)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kh949118@gmail.com)
+
 
 ---
 
@@ -35,9 +37,9 @@ Currently enhancing my skills in **Machine Learning**, **Deep Learning**, and **
 ---
 ##  GitHub Stats  
 
-![Kumarharsh1t's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kumarharsh1t&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumarharsh1&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.herokuapp.com/?user=Kumarharsh1&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kumarharsh1t&theme=tokyonight)  
 
 
 ---
