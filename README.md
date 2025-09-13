@@ -1,9 +1,18 @@
-#  Hi, I'm Kumar Harsh  
+# 👋 Hi, I'm Kumar Harsh  
 
- **Data Science Student** at IIIT Bhopal |  **Machine Learning Enthusiast** |  **Aspiring AI Engineer**  
+🎓 **Data Science Student @ IIIT Bhopal**  
+🤖 **Machine Learning & Generative AI Enthusiast**  
+🌍 **Aspiring AI Engineer | Full-Stack Innovator**  
 
-I’m passionate about building intelligent systems, working with data, and solving real-world problems through AI & ML.  
-Currently enhancing my skills in **Machine Learning**, **Deep Learning**, and **Data Engineering**.  
+I’m passionate about designing **intelligent systems** that merge **AI, data, and scalable engineering** to solve real-world challenges.  
+Currently focusing on:  
+- **Machine Learning & Deep Learning** (model development & optimization)  
+- **Generative AI & Multi-Agent Systems** (LLMs, knowledge-aware agents, sustainability applications)  
+- **Data Engineering & MLOps** (pipelines, deployment, cloud integration)  
+- **Full-Stack Development** (React.js, Node.js, Streamlit, Supabase, MongoDB)  
+
+💡 I love working at the intersection of **AI research** and **practical applications** — from **predictive healthcare** and **finance** to **climate-tech sustainability projects**.  
+ 
 
 ## 🌟 Featured Projects  
 
