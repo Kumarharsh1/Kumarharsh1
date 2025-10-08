@@ -21,7 +21,7 @@ Personal portfolio showcasing my projects and skills, built with modern web tech
 **Features:** Responsive design, smooth animations, dynamic content rendering.  
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, CSS3, JavaScript  
 
-[![Live Website](https://img.shields.io/badge/🔗%20Live%20Website-blue?style=for-the-badge)](https://kumarharshportfoilo.up.railway.app/)  
+[![Live Website](https://img.shields.io/badge/🔗%20Live%20Website-blue?style=for-the-badge)](https://my-portfolio-umber-theta-84.vercel.app/)  
 
 ---
 
