@@ -19,8 +19,8 @@ Data Scientist with expertise in **statistical modeling**, **machine learning**,
 ### **Programming & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### **Machine Learning & AI**
@@ -40,114 +40,174 @@ Data Scientist with expertise in **statistical modeling**, **machine learning**,
 ### **Web Development & Tools**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **BI & Visualization**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
 
+#### **1. Parking Lot Management System**
+**Tech:** Java, Spring Boot, MySQL, Data Structures & Algorithms  
+**Highlights:** 
+- Architected full-stack platform with HashMap for O(1) license plate lookups
+- Implemented PriorityQueue for optimal slot assignment and Graph algorithms for multi-level navigation
+- Reduced vehicle retrieval time by 75% through optimized system design  
+**🔗 [Live Demo](https://car-management-front.onrender.com)**
+
 ### **🤖 Generative AI & NLP Projects**
 
-#### **MultiAI Chatbot Platform**
+#### **2. MultiAI Chatbot Platform**
 **Tech:** Python, FastAPI, Gemini API, React, Vercel  
-**Highlights:** Engineered 5 domain-specific AI assistants with real-time chat, file upload processing, and dynamic switching  
+**Highlights:** 
+- Engineered 5 domain-specific AI assistants (General, Health, Travel, News, E-commerce)
+- Real-time chat interface with file upload processing (PDF/TXT)
+- Dynamic assistant switching and context-aware response system  
 **🔗 [Live Demo](https://nkzs-ql4h.vercel.app/) | [GitHub](https://github.com/Kumarharsh1)**
 
-#### **AI QuizMaster - Dynamic Quiz Generator**
+#### **3. AI QuizMaster - Dynamic Quiz Generator**
 **Tech:** JavaScript, Gemini API, Vercel  
-**Highlights:** Frontend application generating dynamic quizzes on any topic with real-time progress tracking  
+**Highlights:** 
+- Frontend application generating dynamic quizzes on any user-provided topic
+- Integrated Google Gemini API with secure client-side API handling
+- Real-time progress tracking and adaptive content generation  
 **🔗 [Live Demo](https://quizgen-ktcc3021m-kumar-harshs-projects-1633cd03.vercel.app/)**
 
-#### **Project Prakriti – Hybrid AI for Climate & Biodiversity Restoration**
-**Tech:** Python, Groq API, IBM WatsonX, Pandas, Seaborn  
-**Highlights:** AI-powered multi-agent system for ecological planning and restoration  
+#### **4. Project Prakriti – Hybrid AI for Climate & Biodiversity Restoration**
+**Tech:** Python, Groq API, IBM WatsonX, Pandas, Seaborn, Matplotlib  
+**Highlights:** 
+- AI-powered multi-agent system (Climate, Biodiversity, Restoration) for ecological planning
+- Advanced data analysis and visualization for sustainability applications  
 **🔗 [Kaggle Notebook](https://www.kaggle.com/code/kumarharsh001/project-prakriti-hybrid-ai-restoration)**
 
 ---
 
 ### **🖼️ Computer Vision Projects**
 
-#### **EmotionSense AI - Real-time Facial Recognition**
-**Tech:** Python, CNN, YOLOv8, OpenCV, TensorFlow  
-**Highlights:** CNN-based model for 7-class emotion classification with YOLOv8 face detection at 30 FPS  
+#### **5. EmotionSense AI - Real-time Facial Recognition**
+**Tech:** Python, CNN, YOLOv8, OpenCV, TensorFlow, HTML5 Canvas  
+**Highlights:** 
+- Engineered CNN-based deep learning model for 7-class emotion classification
+- Implemented YOLOv8 for real-time face detection at 30 FPS with confidence scoring
+- Built web interface with live video streaming and analysis  
 **🔗 [CNN Demo](https://frontend-emote-p9zc.vercel.app/) | [YOLO Demo](https://jlqas-n93u6yxpx-kumar-harshs-projects-1633cd03.vercel.app)**
 
-#### **Object Detector AI**
+#### **6. Object Detector AI**
 **Tech:** Python, FastAPI, COCO Dataset, OpenCV  
-**Highlights:** Real-time object detection system supporting 80+ COCO classes with live camera detection  
+**Highlights:** 
+- Developed real-time object detection system supporting 80+ COCO classes
+- Integrated live camera detection with FPS monitoring and confidence scoring
+- Optimized for web deployment with responsive design and low-latency performance  
 **🔗 [Live Demo](https://hgjgjh-3jupt4bl3-kumar-harshs-projects-1633cd03.vercel.app/)**
 
 ---
 
 ### **📈 Data Science & ML Projects**
 
-#### **ML Studio Pro - Drag & Drop ML Platform**
+#### **7. ML Studio Pro - Drag & Drop ML Platform**
 **Tech:** Python, Flask, Scikit-learn, JavaScript, Docker  
-**Highlights:** Enterprise-grade ML platform with visual pipeline builder handling 10GB+ datasets  
+**Highlights:** 
+- Architected enterprise-grade ML platform with drag-drop interface for building ML pipelines
+- Implemented scalable backend handling 10GB datasets with 8+ algorithms and automated preprocessing
+- Reduced ML implementation time by 75% through workflow automation and intuitive UI  
 **🔗 [GitHub](https://github.com/Kumarharsh1)**
 
-#### **Stock Market Signal Analyzer**
+#### **8. Stock Market Signal Analyzer**
 **Tech:** Python, Pandas, mplfinance, Streamlit, TA-Lib  
-**Highlights:** Trading platform with technical indicators and real-time candlestick visualization  
+**Highlights:** 
+- Developed trading platform with technical indicators (VWAP, EMA, RSI, Bollinger Bands)
+- Implemented real-time candlestick visualization and buy/sell signal interpretation
+- Created dataset on Kaggle for candlestick pattern analysis  
 **🔗 [Live App](https://stock-market-predictor-4dp8c29i7nr5ebrebp28yt.streamlit.app/) | [Dataset](https://www.kaggle.com/datasets/kumarharsh001/stock-market-data)**
 
-#### **Fraud Detection Application**
+#### **9. Fraud Detection Application**
 **Tech:** Python, Streamlit, Scikit-Learn  
-**Highlights:** Web application with pre-trained ML model for real-time transaction classification  
+**Highlights:** 
+- Built web application with pre-trained ML model for real-time transaction classification
+- Implemented risk assessment workflows and secure deployment architecture
+- Created interactive visualizations for fraud pattern analysis and detection metrics  
 **🔗 [Live Demo](https://fraud-detection-app-padv6u3p7gtqrehhjzv7dn.streamlit.app/)**
 
-#### **Diabetes Prediction Web App**
-**Tech:** React.js, Python, Streamlit, JWT  
-**Highlights:** Full-stack healthcare application with secure login and real-time predictions  
+#### **10. Diabetes Prediction Web App**
+**Tech:** React.js, Python, Streamlit, JWT Authentication  
+**Highlights:** 
+- Developed full-stack healthcare application for real-time diabetes prediction
+- Implemented secure login-protected interface with JWT authentication
+- Created ML-powered backend with React frontend for seamless user experience  
 **🔗 [Live App](https://6890c6b0ddf903296517c592--diabetescheckapp.netlify.app/)**
 
 ---
 
-### **🛠️ Full-Stack Development Projects**
+### **🛠️ Full-Stack & Backend Projects**
 
-#### **E-commerce Shopping Platform**
-**Tech:** React.js, Node.js, MongoDB, Stripe, JWT  
-**Highlights:** Complete e-commerce platform with payment integration and user authentication  
+#### **11. Parking Lot Management System**
+**Tech:** Java, Spring Boot, MySQL, Data Structures & Algorithms  
+**Highlights:** 
+- Architected full-stack platform with HashMap for O(1) license plate lookups
+- Implemented PriorityQueue for optimal slot assignment and Graph algorithms for multi-level navigation
+- Reduced vehicle retrieval time by 75% through optimized system design  
+**🔗 [Live Demo](https://car-management-front.onrender.com)**
+
+#### **12. E-commerce Shopping Platform**
+**Tech:** React.js, Node.js, MongoDB, Stripe API, JWT Authentication  
+**Highlights:** 
+- Built complete e-commerce platform with product catalog, shopping cart, and payment integration
+- Integrated Stripe payment gateway and secure JWT user authentication
+- Designed responsive UI/UX with React.js for cross-device compatibility  
 **🔗 [Live Shop](https://ecommercemyshopkumarharsh.netlify.app/)**
 
-#### **My Portfolio Website**
-**Tech:** React.js, Node.js, Express.js, MongoDB, CSS3  
-**Highlights:** Responsive portfolio with smooth animations and dynamic content  
+#### **13. My Portfolio Website**
+**Tech:** React.js, Node.js, Express.js, MongoDB, CSS3, JavaScript  
+**Highlights:** 
+- Personal portfolio showcasing projects and skills with modern web technologies
+- Features responsive design, smooth animations, and dynamic content rendering  
 **🔗 [Live Website](https://my-portfolio-umber-theta-84.vercel.app/)**
-
-#### **Parking Lot Management System**
-**Tech:** Java, Spring Boot, MySQL  
-**Highlights:** Full-stack platform with HashMap for O(1) lookups and PriorityQueue for optimal slot assignment  
-**🔗 [Live Demo](https://car-management-front.onrender.com)**
 
 ---
 
 ### **📊 Data Engineering & BI Projects**
 
-#### **Patient Data Intelligence Platform**
+#### **14. Patient Data Intelligence Platform**
 **Tech:** SQL, Power BI, DAX, ETL, Data Warehousing  
-**Highlights:** Star schema data warehouse for chronic disease management with interactive dashboards  
+**Highlights:** 
+- Designed star schema data warehouse for chronic disease management
+- Developed multi-page Power BI dashboards for hospital distribution and patient risk profiling
+- Created ETL pipelines processing large-scale healthcare datasets across Indian states  
 **🔗 [Dashboard](https://app.powerbi.com/links/t2WBUKU8to) | [Code](https://github.com/Kumarharsh1/Patient-care-warehouse)**
 
-#### **Google Play Store Analytics**
-**Tech:** PySpark, Databricks, SQL  
-**Highlights:** Big-data analysis on Google Play Store dataset using PySpark and Databricks  
+#### **15. Google Play Store Analytics**
+**Tech:** PySpark, Databricks, SQL, Big Data Analytics  
+**Highlights:** 
+- Conducted big-data analysis on Google Play Store dataset using PySpark
+- Identified top-reviewed applications, installation trends, and category distribution
+- Leveraged Databricks for scalable processing and SQL for structured analytics  
 **🔗 [Notebook](https://dbc-76eeb22e-caa7.cloud.databricks.com/editor/notebooks/3764232284622711)**
 
-#### **Population Dashboard - Tableau**
+#### **16. Population Dashboard - Tableau**
 **Tech:** Tableau, Data Visualization  
-**Highlights:** Interactive dashboard ranking capital cities by population with advanced filters  
+**Highlights:** 
+- Created interactive Tableau dashboard ranking capital cities by population
+- Implemented advanced filters, drill-down capabilities, and dynamic visualizations
+- Designed for comparative analysis and demographic trend exploration  
 **🔗 [Dashboard](https://prod-apsoutheast-b.online.tableau.com/t/kh949118-4446c37376/authoring/Population/Sheet1)**
 
 ---
 
 ### **🌿 Research & Innovation Projects**
 
-#### **Eco Analyzer (Master's Thesis Research)**
+#### **16. Eco Analyzer (Master's Thesis Research)**
 **Tech:** Multi-Agent AI, AgentX, Python, Streamlit  
-**Highlights:** Custom multi-agent system for ecological research with three specialized agents  
+**Highlights:** 
+- Developed custom multi-agent system for ecological research and plant disease detection
+- Integrated three specialized agents: Biodiversity, Climate, and Restoration Analysts
+- Created pipeline automation for end-to-end ecological insights and planning  
 **🔗 [Live App](https://eco-analyzer-66784065.base44.app/NewAnalysis)**
 
 ---
@@ -156,42 +216,10 @@ Data Scientist with expertise in **statistical modeling**, **machine learning**,
 
 ### **Larsen & Toubro Hydrocarbon Energy** | *Data Analyst – Structural Domain* (Jul 2023 – Jun 2024)
 - Analyzed structural datasets for offshore oil & gas projects, ensuring compliance with industry standards
-- Validated joint/connection data using MS Excel and Staad Pro, reducing design errors by 15%
-- Collaborated with engineering teams on ARAMCO (Saudi Arabia) and LINDE (Australia) projects
+- Validated joint/connection data using MS Excel and Staad Pro, **reducing design errors by 15%**
+- Collaborated with engineering teams on **ARAMCO (Saudi Arabia)** and **LINDE (Australia)** projects
 - Optimized design workflows using AutoCAD, Tekla, and Staad Pro for large-scale energy projects
 
----
-
-## 🎓 Education
-
-| Degree | Institution | Duration | Performance |
-|--------|-------------|----------|-------------|
-| **M.Tech in Data Science** | Indian Institute of Information Technology, Bhopal | 2024-2026 | 8.38 CGPA |
-| **B.Tech in Mechanical Engineering** | Birsa Institute of Technology Sindri, Dhanbad | 2019-2023 | 8.55 CGPA |
-| **CBSE Class 12** | Delhi Public School, Ranchi | 2019 | 84% |
-| **CBSE Class 10** | Notre Dame School, Gumla | 2017 | 10.0 CGPA |
-
----
-
-## 📜 Certifications
-
-- **Data Structures & Algorithms** - UC San Diego (95.66%)
-- **Google Data Analytics Professional Certificate**
-- **Microsoft Azure Fundamentals (AZ-900)**
-- **Data Visualization & Analysis with R**
-- **NPTEL Solid Mechanics** - Silver Medalist
-- **ISRO Remote Sensing Technology** - IIRS Dehradun
-
----
-
-## 🏅 Achievements & Leadership
-
-- **Silver Medalist**: NPTEL Solid Mechanics course
-- **City Rank 1**: National Science Olympiad (Class 10) and International Math Olympiad
-- **Academic Excellence**: District Topper (10.0 CGPA), 1st Position consecutively from Class 6-10
-- **IBM Agentic AI Hackathon**: Developed innovative AI solutions
-- **SELP by TEQUIP-III**: Selected for technical excellence and leadership program
-- **Extracurricular**: 1st Position in District-Level Badminton Championship
 
 ---
 
@@ -227,3 +255,12 @@ Data Scientist with expertise in **statistical modeling**, **machine learning**,
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kumarharsh1&color=blue)
 
 ⭐ **Star repositories you find interesting! Let's build something amazing together!**
+
+---
+## 🔍 What I'm Currently Working On
+- Enhancing my **Multi-Agent AI systems** for real-world applications
+- Building **scalable MLOps pipelines** for production deployment
+- Contributing to **open-source AI projects**
+- Preparing research publications in **AI for Sustainability**
+
+**Open to collaborations on innovative AI/ML projects!**
