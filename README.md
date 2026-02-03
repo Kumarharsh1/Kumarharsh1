@@ -60,9 +60,36 @@
 
 ## 🏆 Featured Projects
 
+
+### **💻 Software Development Projects**
+
+#### **1. Parking Lot Management System**
+**Tech:** Java, Spring Boot, MySQL, Data Structures & Algorithms, REST APIs  
+**Highlights:** 
+- Architected full-stack platform with HashMap for O(1) license plate lookups
+- Implemented PriorityQueue for optimal slot assignment and Graph algorithms for multi-level navigation
+- **Reduced vehicle retrieval time by 75%** through optimized system design
+- Built RESTful APIs for frontend-backend communication  
+**🔗 [Live Demo](https://car-management-front.onrender.com)**
+
+#### **2. E-commerce Shopping Platform**
+**Tech:** React.js, Node.js, Express.js, MongoDB, Stripe API, JWT Authentication  
+**Highlights:** 
+- Built complete e-commerce platform with product catalog, shopping cart, and payment integration
+- Integrated Stripe payment gateway and secure JWT user authentication
+- Designed responsive UI/UX with React.js for cross-device compatibility  
+**🔗 [Live Shop](https://ecommercemyshopkumarharsh.netlify.app/)**
+
+#### **3. My Portfolio Website**
+**Tech:** React.js, Node.js, Express.js, MongoDB, CSS3, JavaScript, Vercel  
+**Highlights:** 
+- Personal portfolio showcasing projects and skills with modern web technologies
+- Features responsive design, smooth animations, and dynamic content rendering
+- Optimized for performance and SEO  
+**🔗 [Live Website](https://my-portfolio-umber-theta-84.vercel.app/)**
 ### **🤖 Generative AI & NLP Projects**
 
-#### **1. MultiAI Chatbot Platform**
+#### **4. MultiAI Chatbot Platform**
 **Tech:** Python, FastAPI, Gemini API, React, TypeScript, Docker  
 **Highlights:** 
 - Engineered 5 domain-specific AI assistants (General, Health, Travel, News, E-commerce)
@@ -70,7 +97,7 @@
 - Implemented context-aware response system with dynamic assistant switching  
 **🔗 [Live Demo](https://nkzs-ql4h.vercel.app/) | [GitHub](https://github.com/Kumarharsh1)**
 
-#### **2. AI QuizMaster - Dynamic Quiz Generator**
+#### **5. AI QuizMaster - Dynamic Quiz Generator**
 **Tech:** JavaScript, React, Gemini API, Vercel  
 **Highlights:** 
 - Frontend application generating dynamic quizzes on any user-provided topic
@@ -78,7 +105,7 @@
 - Real-time progress tracking and adaptive content generation  
 **🔗 [Live Demo](https://quizgen-ktcc3021m-kumar-harshs-projects-1633cd03.vercel.app/)**
 
-#### **3. Project Prakriti – Hybrid AI for Climate & Biodiversity Restoration**
+#### **6. Project Prakriti – Hybrid AI for Climate & Biodiversity Restoration**
 **Tech:** Python, Groq API, IBM WatsonX, Pandas, Seaborn, Matplotlib  
 **Highlights:** 
 - AI-powered multi-agent system (Climate, Biodiversity, Restoration) for ecological planning
@@ -89,7 +116,7 @@
 
 ### **🖼️ Computer Vision Projects**
 
-#### **4. EmotionSense AI - Real-time Facial Recognition**
+#### **7. EmotionSense AI - Real-time Facial Recognition**
 **Tech:** Python, CNN, YOLOv8, OpenCV, TensorFlow, HTML5 Canvas  
 **Highlights:** 
 - Engineered CNN-based deep learning model for 7-class emotion classification
@@ -97,7 +124,7 @@
 - Built web interface with live video streaming and analysis  
 **🔗 [CNN Demo](https://frontend-emote-p9zc.vercel.app/) | [YOLO Demo](https://jlqas-n93u6yxpx-kumar-harshs-projects-1633cd03.vercel.app)**
 
-#### **5. Object Detector AI**
+#### **8. Object Detector AI**
 **Tech:** Python, FastAPI, COCO Dataset, OpenCV, React  
 **Highlights:** 
 - Developed real-time object detection system supporting 80+ COCO classes
@@ -109,7 +136,7 @@
 
 ### **📈 Data Science & ML Engineering Projects**
 
-#### **6. ML Studio Pro - Drag & Drop ML Platform**
+#### **9. ML Studio Pro - Drag & Drop ML Platform**
 **Tech:** Python, Flask, Scikit-learn, JavaScript, Docker, Kubernetes  
 **Highlights:** 
 - Architected enterprise-grade ML platform with drag-drop interface for building ML pipelines
@@ -117,7 +144,7 @@
 - Reduced ML implementation time by 75% through workflow automation and intuitive UI  
 **🔗 [GitHub](https://github.com/Kumarharsh1)**
 
-#### **7. Stock Market Signal Analyzer**
+#### **10. Stock Market Signal Analyzer**
 **Tech:** Python, Pandas, mplfinance, Streamlit, TA-Lib  
 **Highlights:** 
 - Developed trading platform with technical indicators (VWAP, EMA, RSI, Bollinger Bands)
@@ -125,7 +152,7 @@
 - Created dataset on Kaggle for candlestick pattern analysis  
 **🔗 [Live App](https://stock-market-predictor-4dp8c29i7nr5ebrebp28yt.streamlit.app/) | [Dataset](https://www.kaggle.com/datasets/kumarharsh001/stock-market-data)**
 
-#### **8. Fraud Detection Application**
+#### **11. Fraud Detection Application**
 **Tech:** Python, Streamlit, Scikit-Learn, Docker  
 **Highlights:** 
 - Built web application with pre-trained ML model for real-time transaction classification
@@ -133,7 +160,7 @@
 - Created interactive visualizations for fraud pattern analysis and detection metrics  
 **🔗 [Live Demo](https://fraud-detection-app-padv6u3p7gtqrehhjzv7dn.streamlit.app/)**
 
-#### **9. Diabetes Prediction Web App**
+#### **12. Diabetes Prediction Web App**
 **Tech:** React.js, Python, Streamlit, JWT Authentication, Docker  
 **Highlights:** 
 - Developed full-stack healthcare application for real-time diabetes prediction
@@ -143,34 +170,6 @@
 
 ---
 
-### **💻 Software Development Projects**
-
-#### **10. Parking Lot Management System**
-**Tech:** Java, Spring Boot, MySQL, Data Structures & Algorithms, REST APIs  
-**Highlights:** 
-- Architected full-stack platform with HashMap for O(1) license plate lookups
-- Implemented PriorityQueue for optimal slot assignment and Graph algorithms for multi-level navigation
-- **Reduced vehicle retrieval time by 75%** through optimized system design
-- Built RESTful APIs for frontend-backend communication  
-**🔗 [Live Demo](https://car-management-front.onrender.com)**
-
-#### **11. E-commerce Shopping Platform**
-**Tech:** React.js, Node.js, Express.js, MongoDB, Stripe API, JWT Authentication  
-**Highlights:** 
-- Built complete e-commerce platform with product catalog, shopping cart, and payment integration
-- Integrated Stripe payment gateway and secure JWT user authentication
-- Designed responsive UI/UX with React.js for cross-device compatibility  
-**🔗 [Live Shop](https://ecommercemyshopkumarharsh.netlify.app/)**
-
-#### **12. My Portfolio Website**
-**Tech:** React.js, Node.js, Express.js, MongoDB, CSS3, JavaScript, Vercel  
-**Highlights:** 
-- Personal portfolio showcasing projects and skills with modern web technologies
-- Features responsive design, smooth animations, and dynamic content rendering
-- Optimized for performance and SEO  
-**🔗 [Live Website](https://my-portfolio-umber-theta-84.vercel.app/)**
-
----
 
 ### **📊 Data Engineering & BI Projects**
 
@@ -222,17 +221,6 @@
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Duration | Performance |
-|--------|-------------|----------|-------------|
-| **M.Tech in Data Science** | Indian Institute of Information Technology, Bhopal | 2024-2026 | **8.38 CGPA** |
-| **B.Tech in Mechanical Engineering** | Birsa Institute of Technology Sindri, Dhanbad | 2019-2023 | **8.55 CGPA** |
-| **CBSE Class 12** | Delhi Public School, Ranchi | 2019 | **84%** |
-| **CBSE Class 10** | Notre Dame School, Gumla | 2017 | **10.0 CGPA** |
-
----
-
 ## 📜 Certifications
 
 - **Data Structures & Algorithms** - UC San Diego (**95.66%**)
@@ -242,16 +230,6 @@
 - **NPTEL Solid Mechanics** - Silver Medalist
 - **ISRO Remote Sensing Technology** - IIRS Dehradun
 
----
-
-## 🏅 Achievements & Leadership
-
-- **Silver Medalist**: NPTEL Solid Mechanics course (structural analysis proficiency)
-- **City Rank 1**: National Science Olympiad (Class 10) and International Math Olympiad (Class 9 & 10)
-- **Academic Excellence**: 1st Position consecutively from Class 6-10; District Topper (10.0 CGPA)
-- **IBM Agentic AI Hackathon**: Developed innovative AI solutions in competitive environment
-- **SELP by TEQUIP-III**: Selected for technical excellence and leadership program
-- **Extracurricular**: 1st Position in District-Level Badminton Championship
 
 ---
 
