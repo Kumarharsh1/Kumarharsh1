@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kumar Harsh
+# 👋 Hi, I'm Kumar Harsh (System Designer)
 
 🎓 **M.Tech Data Science @ IIIT Bhopal (SYSTEM DESIGNER)** | 🏆 **Ex-Data Analyst @ L&T Hydrocarbon Energy**  
 🤖 **Software Developer | AI Engineer | Data Scientist | Full-Stack Developer**  
