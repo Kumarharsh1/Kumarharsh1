@@ -72,6 +72,20 @@
 - Built RESTful APIs for frontend-backend communication  
 **🔗 [Live Demo](https://car-management-front.onrender.com)**
 
+  #### **Stock Market Portfolio Dashboard**
+**Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, Express  
+**Highlights:**  
+- Built a full‑stack portfolio dashboard displaying **real‑time stock data** for 30 companies across 8 sectors  
+- Automatic updates every 15 seconds with key metrics: CMP, P/E ratio, gains/losses, all with **color‑coded indicators**  
+- Designed responsive UI with sector grouping, expand/collapse functionality, and 11 structured data columns  
+- Integrated **Alpha Vantage** and **Twelve Data APIs** with fallback handling for reliability
+
+**Deployment:**  
+- Backend hosted on **Render**  
+- Frontend deployed on **Vercel**  
+
+**🔗 [Live Demo](https://stock-market-portfolio-frontendvhbv.vercel.app/)**
+
 #### **2. E-commerce Shopping Platform**
 **Tech:** React.js, Node.js, Express.js, MongoDB, Stripe API, JWT Authentication  
 **Highlights:** 
@@ -142,7 +156,7 @@
 - Architected enterprise-grade ML platform with drag-drop interface for building ML pipelines
 - Implemented scalable backend handling 10GB datasets with 8+ algorithms and automated preprocessing
 - Reduced ML implementation time by 75% through workflow automation and intuitive UI  
-**🔗 [GitHub](https://github.com/Kumarharsh1)**
+**🔗 [Live App](https://ml-studio-frontend.onrender.com/)**
 
 #### **10. Stock Market Signal Analyzer**
 **Tech:** Python, Pandas, mplfinance, Streamlit, TA-Lib  
