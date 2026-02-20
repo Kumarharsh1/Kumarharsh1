@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kumar Harsh (System Designer)
+# 👋 Hi, I'm Kumar Harsh
 
 🎓 **M.Tech Data Science @ IIIT Bhopal (SYSTEM DESIGNER)** | 🏆 **Ex-Data Analyst @ L&T Hydrocarbon Energy**  
 🤖 **Software Developer | AI Engineer | Data Scientist | Full-Stack Developer**  
@@ -72,7 +72,7 @@
 - Built RESTful APIs for frontend-backend communication  
 **🔗 [Live Demo](https://car-management-front.onrender.com)**
 
-  #### **Stock Market Portfolio Dashboard**
+  #### **2.Stock Market Portfolio Dashboard**
 **Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, Express  
 **Highlights:**  
 - Built a full‑stack portfolio dashboard displaying **real‑time stock data** for 30 companies across 8 sectors  
@@ -86,7 +86,7 @@
 
 **🔗 [Live Demo](https://stock-market-portfolio-frontendvhbv.vercel.app/)**
 
-#### **2. E-commerce Shopping Platform**
+#### **3. E-commerce Shopping Platform**
 **Tech:** React.js, Node.js, Express.js, MongoDB, Stripe API, JWT Authentication  
 **Highlights:** 
 - Built complete e-commerce platform with product catalog, shopping cart, and payment integration
@@ -94,7 +94,7 @@
 - Designed responsive UI/UX with React.js for cross-device compatibility  
 **🔗 [Live Shop](https://ecommercemyshopkumarharsh.netlify.app/)**
 
-#### **3. My Portfolio Website**
+#### **4. My Portfolio Website**
 **Tech:** React.js, Node.js, Express.js, MongoDB, CSS3, JavaScript, Vercel  
 **Highlights:** 
 - Personal portfolio showcasing projects and skills with modern web technologies
@@ -103,7 +103,7 @@
 **🔗 [Live Website](https://my-portfolio-umber-theta-84.vercel.app/)**
 ### **🤖 Generative AI & NLP Projects**
 
-#### **4. MultiAI Chatbot Platform**
+#### **5. MultiAI Chatbot Platform**
 **Tech:** Python, FastAPI, Gemini API, React, TypeScript, Docker  
 **Highlights:** 
 - Engineered 5 domain-specific AI assistants (General, Health, Travel, News, E-commerce)
@@ -111,7 +111,7 @@
 - Implemented context-aware response system with dynamic assistant switching  
 **🔗 [Live Demo](https://nkzs-ql4h.vercel.app/) | [GitHub](https://github.com/Kumarharsh1)**
 
-#### **5. AI QuizMaster - Dynamic Quiz Generator**
+#### **6. AI QuizMaster - Dynamic Quiz Generator**
 **Tech:** JavaScript, React, Gemini API, Vercel  
 **Highlights:** 
 - Frontend application generating dynamic quizzes on any user-provided topic
@@ -119,7 +119,7 @@
 - Real-time progress tracking and adaptive content generation  
 **🔗 [Live Demo](https://quizgen-ktcc3021m-kumar-harshs-projects-1633cd03.vercel.app/)**
 
-#### **6. Project Prakriti – Hybrid AI for Climate & Biodiversity Restoration**
+#### **7. Project Prakriti – Hybrid AI for Climate & Biodiversity Restoration**
 **Tech:** Python, Groq API, IBM WatsonX, Pandas, Seaborn, Matplotlib  
 **Highlights:** 
 - AI-powered multi-agent system (Climate, Biodiversity, Restoration) for ecological planning
@@ -130,7 +130,7 @@
 
 ### **🖼️ Computer Vision Projects**
 
-#### **7. EmotionSense AI - Real-time Facial Recognition**
+#### **8. EmotionSense AI - Real-time Facial Recognition**
 **Tech:** Python, CNN, YOLOv8, OpenCV, TensorFlow, HTML5 Canvas  
 **Highlights:** 
 - Engineered CNN-based deep learning model for 7-class emotion classification
@@ -138,7 +138,7 @@
 - Built web interface with live video streaming and analysis  
 **🔗 [CNN Demo](https://frontend-emote-p9zc.vercel.app/) | [YOLO Demo](https://jlqas-n93u6yxpx-kumar-harshs-projects-1633cd03.vercel.app)**
 
-#### **8. Object Detector AI**
+#### **9. Object Detector AI**
 **Tech:** Python, FastAPI, COCO Dataset, OpenCV, React  
 **Highlights:** 
 - Developed real-time object detection system supporting 80+ COCO classes
@@ -150,7 +150,7 @@
 
 ### **📈 Data Science & ML Engineering Projects**
 
-#### **9. ML Studio Pro - Drag & Drop ML Platform**
+#### **10. ML Studio Pro - Drag & Drop ML Platform**
 **Tech:** Python, Flask, Scikit-learn, JavaScript, Docker, Kubernetes  
 **Highlights:** 
 - Architected enterprise-grade ML platform with drag-drop interface for building ML pipelines
@@ -158,7 +158,7 @@
 - Reduced ML implementation time by 75% through workflow automation and intuitive UI  
 **🔗 [Live App](https://ml-studio-frontend.onrender.com/)**
 
-#### **10. Stock Market Signal Analyzer**
+#### **11. Stock Market Signal Analyzer**
 **Tech:** Python, Pandas, mplfinance, Streamlit, TA-Lib  
 **Highlights:** 
 - Developed trading platform with technical indicators (VWAP, EMA, RSI, Bollinger Bands)
@@ -166,7 +166,7 @@
 - Created dataset on Kaggle for candlestick pattern analysis  
 **🔗 [Live App](https://stock-market-predictor-4dp8c29i7nr5ebrebp28yt.streamlit.app/) | [Dataset](https://www.kaggle.com/datasets/kumarharsh001/stock-market-data)**
 
-#### **11. Fraud Detection Application**
+#### **12. Fraud Detection Application**
 **Tech:** Python, Streamlit, Scikit-Learn, Docker  
 **Highlights:** 
 - Built web application with pre-trained ML model for real-time transaction classification
@@ -174,7 +174,7 @@
 - Created interactive visualizations for fraud pattern analysis and detection metrics  
 **🔗 [Live Demo](https://fraud-detection-app-padv6u3p7gtqrehhjzv7dn.streamlit.app/)**
 
-#### **12. Diabetes Prediction Web App**
+#### **13. Diabetes Prediction Web App**
 **Tech:** React.js, Python, Streamlit, JWT Authentication, Docker  
 **Highlights:** 
 - Developed full-stack healthcare application for real-time diabetes prediction
@@ -187,7 +187,7 @@
 
 ### **📊 Data Engineering & BI Projects**
 
-#### **13. Patient Data Intelligence Platform**
+#### **14. Patient Data Intelligence Platform**
 **Tech:** SQL, Power BI, DAX, ETL, Data Warehousing, Star Schema  
 **Highlights:** 
 - Designed star schema data warehouse for chronic disease management
@@ -195,7 +195,7 @@
 - Created ETL pipelines processing large-scale healthcare datasets across Indian states  
 **🔗 [Dashboard](https://app.powerbi.com/links/t2WBUKU8to) | [Code](https://github.com/Kumarharsh1/Patient-care-warehouse)**
 
-#### **14. Google Play Store Analytics**
+#### **15. Google Play Store Analytics**
 **Tech:** PySpark, Databricks, SQL, Big Data Analytics, Hadoop  
 **Highlights:** 
 - Conducted big-data analysis on Google Play Store dataset using PySpark
@@ -203,7 +203,7 @@
 - Leveraged Databricks for scalable processing and SQL for structured analytics  
 **🔗 [Notebook](https://dbc-76eeb22e-caa7.cloud.databricks.com/editor/notebooks/3764232284622711)**
 
-#### **15. Population Dashboard - Tableau**
+#### **16. Population Dashboard - Tableau**
 **Tech:** Tableau, Data Visualization, ETL  
 **Highlights:** 
 - Created interactive Tableau dashboard ranking capital cities by population
@@ -215,7 +215,7 @@
 
 ### **🌿 Research & Innovation Projects**
 
-#### **16. Eco Analyzer (Master's Thesis Research)**
+#### **17. Eco Analyzer (Master's Thesis Research)**
 **Tech:** Multi-Agent AI, AgentX, Python, Streamlit, FastAPI  
 **Highlights:** 
 - Developed custom multi-agent system for ecological research and plant disease detection
