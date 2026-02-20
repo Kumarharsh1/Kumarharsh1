@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kumar Harsh
 
-🎓 **M.Tech Data Science @ IIIT Bhopal ** | 🏆 **Ex-Data Analyst @ L&T Hydrocarbon Energy**
-🤖 **Software Developer | AI Engineer | Data Scientist | SYSTEM DESIGNER | Full-Stack Developer**
-🚀 **Building Scalable AI Solutions & Software Systems for Real-World Impact**
+ **M.Tech Data Science @ IIIT Bhopal ** |  **Ex-Data Analyst @ L&T Hydrocarbon Energy**
+ **Software Developer | AI Engineer | Data Scientist | SYSTEM DESIGNER | Full-Stack Developer**
+ **Building Scalable AI Solutions & Software Systems for Real-World Impact**
 
 ---
 
