@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 Professional Summary
+##  Professional Summary
 
 **Software Developer & Data Scientist** with expertise in **statistical modeling**, **machine learning**, and **full-stack software engineering**. Experienced in building **enterprise-grade applications** and **predictive models** using **Python**, **Java**, **JavaScript**, **SQL**, and modern development frameworks. Proficient in **system architecture**, **data analysis**, **feature engineering**, and **business intelligence**. Demonstrated ability to develop **scalable, insightful solutions** with focus on **performance optimization**, **code quality**, and **production deployment**.
 
