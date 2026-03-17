@@ -72,6 +72,16 @@
 - Built RESTful APIs for frontend-backend communication  
 **🔗 [Live Demo](https://car-management-front.onrender.com)**
 
+
+#### **10. ML Studio Pro - Drag & Drop ML Platform**
+**Tech:** Python, Flask, Scikit-learn, JavaScript, Docker, Kubernetes  
+**Highlights:** 
+- Architected enterprise-grade ML platform with drag-drop interface for building ML pipelines
+- Implemented scalable backend handling 10GB datasets with 8+ algorithms and automated preprocessing
+- Reduced ML implementation time by 75% through workflow automation and intuitive UI  
+**🔗 [Live App](https://ml-studio-frontendin.onrender.com/)**
+
+
   #### **2.Stock Market Portfolio Dashboard**
 **Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, Express  
 **Highlights:**  
@@ -84,7 +94,7 @@
 - Backend hosted on **Render**  
 - Frontend deployed on **Vercel**  
 
-**🔗 [Live Demo](https://stock-market-portfolio-frontendvhbv.vercel.app/)**
+**🔗 [Live Demo](https://stock-market-portfolio-frontend-u4n1.onrender.com/)**
 
 #### **3. E-commerce Shopping Platform**
 **Tech:** React.js, Node.js, Express.js, MongoDB, Stripe API, JWT Authentication  
@@ -156,7 +166,7 @@
 - Architected enterprise-grade ML platform with drag-drop interface for building ML pipelines
 - Implemented scalable backend handling 10GB datasets with 8+ algorithms and automated preprocessing
 - Reduced ML implementation time by 75% through workflow automation and intuitive UI  
-**🔗 [Live App](https://ml-studio-frontend.onrender.com/)**
+**🔗 [Live App](https://ml-studio-frontendin.onrender.com/)**
 
 #### **11. Stock Market Signal Analyzer**
 **Tech:** Python, Pandas, mplfinance, Streamlit, TA-Lib  
